@@ -416,7 +416,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "N,N-dimethyltryptamine (DMT)",
     "part": "Flower and leaves",
-    "region _found": "tropical regions of India",
+    "region_found": "tropical regions of India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Acacia_farnesiana_(L.)_Willd.jpeg"
   },
@@ -427,7 +427,7 @@ export const Ayurvedic = [
     "components": "Flavanoids",
     "compound": "quercetin, rutin, and kaempferol.",
     "part": "Whole plaant",
-    "region _found": "Assam, Bihar, Gujarat, Karnataka, Madhya Pradesh, Odisha, Rajasthan, South India, Uttar Pradesh",
+    "region_found": "Assam, Bihar, Gujarat, Karnataka, Madhya Pradesh, Odisha, Rajasthan, South India, Uttar Pradesh",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Achyranthes_aspera_L.jpeg"
   },
@@ -438,7 +438,7 @@ export const Ayurvedic = [
     "components": "phenylpropanoid",
     "compound": "alpha asarone, beta asarone and eugenol",
     "part": "roots and leaves",
-    "region _found": "western Ghat",
+    "region_found": "western Ghat",
     "reference": "https://doi.org/10.33545/27072827.2023.v4.i1a.65",
     "image": "Acorus_calamus.jpeg"
   },
@@ -449,7 +449,7 @@ export const Ayurvedic = [
     "components": "alkaloids, flavanoids",
     "compound": "Vasicine, vasicol, vasicinol, arachidic, cerotic, linoleic, oleic acids",
     "part": "flower and  bark",
-    "region _found": "Tropical and Subtropical region of india",
+    "region_found": "Tropical and Subtropical region of india",
     "reference": "https://rjpls.com/wp-content/uploads/2023/05/3.-A-Review-Sanjeev-Mahuda.pdf",
     "image": "Adhatoda_vasica.jpeg"
   },
@@ -460,7 +460,7 @@ export const Ayurvedic = [
     "components": "Phenolic compound, steroids, coumarin and alkaloids",
     "compound": "Marmelosin, tannic acid, marmesinin, ascorbic acid, eugenol, skimmianine, saponin, aegeline, furocoumarins",
     "part": "Leaves, fruit",
-    "region _found": "Himalayan regions, Bengal, Central and South India, and Western Himalaya.",
+    "region_found": "Himalayan regions, Bengal, Central and South India, and Western Himalaya.",
     "reference": "https://www.bing.com/ck/a?!&&p=3708683ed4ec20ffJmltdHM9MTcxMTA2NTYwMCZpZ3VpZD0wMzkwMGUzYi02Nzg0LTY1NzUtM2EwMy0xYTE0NjY3NjY0ZDEmaW5zaWQ9NTIxOQ&ptn=3&ver=2&hsh=3&fclid=03900e3b-6784-6575-3a03-1a14667664d1&psq=Review+on+ayurvedic+plant+based+compounds+to+cure+the+neurological+disorders+Siba+Pattanaik+and+Deoraj+Sharma&u=a1aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wdWJsaWNhdGlvbi8zNjg2MjIxOTBfUmV2aWV3X29uX2F5dXJ2ZWRpY19wbGFudF9iYXNlZF9jb21wb3VuZHNfdG9fY3VyZV90aGVfbmV1cm9sb2dpY2FsX2Rpc29yZGVycw&ntb=1",
     "image": "Aegle_marmelos_(L.)_Correa.jpeg"
   },
@@ -471,7 +471,7 @@ export const Ayurvedic = [
     "components": "bicyclic sesquiterpene",
     "compound": "?-caryophyllene",
     "part": "Whole plant",
-    "region _found": "Himalayas",
+    "region_found": "Himalayas",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Ageratum_conyzoides_L.jpeg"
   },
@@ -482,7 +482,7 @@ export const Ayurvedic = [
     "components": "phytosterol",
     "compound": "?-sitosterol",
     "part": "plant",
-    "region _found": "Andhra Pradesh, Karnataka, Kerala, Maharashtra, Odisha, Lakshwadeep",
+    "region_found": "Andhra Pradesh, Karnataka, Kerala, Maharashtra, Odisha, Lakshwadeep",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Alocasia_macrorrhizos_(L.).jpeg"
   },
@@ -493,7 +493,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Alstonine",
     "part": "Bark",
-    "region _found": "West Bengal and the west-coast forests of south India",
+    "region_found": "West Bengal and the west-coast forests of south India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Alstonia_scholaris_(L.)_R.Br.jpeg"
   },
@@ -504,7 +504,7 @@ export const Ayurvedic = [
     "components": "Flavanoids",
     "compound": "Andrograpanin",
     "part": "Leaves",
-    "region _found": "Madhya Pradesh, Chhattisgarh, Orissa, Maharashtra, Assam, West Bengal, Uttar Pradesh, Tamil Nadu, Kerala",
+    "region_found": "Madhya Pradesh, Chhattisgarh, Orissa, Maharashtra, Assam, West Bengal, Uttar Pradesh, Tamil Nadu, Kerala",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Andrographis_paniculata.jpeg"
   },
@@ -515,7 +515,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Arecoline",
     "part": "Fruit",
-    "region _found": "Kerala, Karnataka and Assam",
+    "region_found": "Kerala, Karnataka and Assam",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Areca_catechu_L.jpeg"
   },
@@ -526,7 +526,7 @@ export const Ayurvedic = [
     "components": "polycyclic alkaloids, flavanoids",
     "compound": "alkaloids (Asparagamine A), Isoflavones-8- methoxy-5, 6, 4-trihydroxy isoflavone-7-0-beta-D-glucopyranoside, Flavonoids (Kaempferol, quercetin, rutin), shatavaroside, secoisolariciresinol, immunosides, beta sitosterol, sitigmaterol, daidzein, genistein, racemoside A-C and other compounds like essential oils, resins, tannins, tyrosine, arginine, asparagine",
     "part": "Root",
-    "region _found": "Arunachal Pradesh, Assam, Chhattisgarh, Delhi, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Kerala and Punjab",
+    "region_found": "Arunachal Pradesh, Assam, Chhattisgarh, Delhi, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Kerala and Punjab",
     "reference": "https://www.plantsjournal.com/archives/2021/vol9issue4/PartB/9-4-23-980.pdf",
     "image": "Asparagus_racemosus.jpeg"
   },
@@ -537,7 +537,7 @@ export const Ayurvedic = [
     "components": "Terpenoid, Flavoinoids, Phenoic",
     "compound": "Azadiradione, Nimbin and Salannin, Limonoids, Gedunin, Quercetin,Salannin, Scopoletin, Arachidic acid, Gallic acid",
     "part": "Neem Extract",
-    "region _found": "throughout India, from the southern tip of Kerala to the Himalayan hills, and in tropical to subtropical regions",
+    "region_found": "throughout India, from the southern tip of Kerala to the Himalayan hills, and in tropical to subtropical regions",
     "reference": "https://www.sciencedirect.com/science/article/abs/pii/S0197018621000693",
     "image": "Azadirachta_indica.jpeg"
   },
@@ -548,7 +548,7 @@ export const Ayurvedic = [
     "components": "Saponins",
     "compound": "Bacosides",
     "part": "Stem and leaves",
-    "region _found": "North eastern regions",
+    "region_found": "North eastern regions",
     "reference": "https://rjpls.com/wp-content/uploads/2023/05/2.-A-PROMISING-APPROACH-FOR-THE-TREATMENT-BY-DEMENTIA-DISEASE-WITH-THE-HELP-OF-HERBAL-DRUGS.pdf",
     "image": "Bacopa_monneri.jpeg"
   },
@@ -559,7 +559,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "Kaempferol, Quercetin ,Rutin ,Apigenin",
     "part": "Root and Flower",
-    "region _found": "Kerala, Puri and Khurda districts of Odisha, Kanchipuram district of Tamil Nadu, Doaba region of Punjab,  and in Bardhaman West Bengal.",
+    "region_found": "Kerala, Puri and Khurda districts of Odisha, Kanchipuram district of Tamil Nadu, Doaba region of Punjab,  and in Bardhaman West Bengal.",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Bauhinia_acuminata_L.jpeg"
   },
@@ -570,7 +570,7 @@ export const Ayurvedic = [
     "components": "Triterpenoid",
     "compound": "cucurbitacin B",
     "part": "Seed and Fruit",
-    "region _found": "Throughout Assam",
+    "region_found": "Throughout Assam",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Benincasa_hispida_(Thunb.)_Cogn.jpeg"
   },
@@ -581,7 +581,7 @@ export const Ayurvedic = [
     "components": "diterpenoid",
     "compound": "norbixin",
     "part": "Seed",
-    "region _found": "Andhra Pradesh, Assam, Kerala, Manipur, Odisha",
+    "region_found": "Andhra Pradesh, Assam, Kerala, Manipur, Odisha",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Bixa_orellana_L.jpeg"
   },
@@ -592,7 +592,7 @@ export const Ayurvedic = [
     "components": "bicyclic sesquiterpene",
     "compound": "?-caryophyllene",
     "part": "Leaves",
-    "region _found": "Assam,manipur, Meghalaya",
+    "region_found": "Assam,manipur, Meghalaya",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Blumea_balsamifera_DC.jpeg"
   },
@@ -603,7 +603,7 @@ export const Ayurvedic = [
     "components": "Alkaloids, Phenolic compounds",
     "compound": "Punarnavine, caffeoyltartaric acid",
     "part": "Roots",
-    "region _found": "northeastern parts of India, including the Amaravathi village in Guntur district",
+    "region_found": "northeastern parts of India, including the Amaravathi village in Guntur district",
     "reference": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527803781.ch8",
     "image": "Boerhaavia_diffusa.jpeg"
   },
@@ -614,7 +614,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Triterpenoids",
     "part": "Fruit",
-    "region _found": "Tamil Nadu, Andhra Pradesh, Kerala, Karnataka, Maharashtra, Madhya Pradesh, Chhattisgarh, and Odisha.",
+    "region_found": "Tamil Nadu, Andhra Pradesh, Kerala, Karnataka, Maharashtra, Madhya Pradesh, Chhattisgarh, and Odisha.",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Borassus_flabellifer_L.jpeg"
   },
@@ -625,7 +625,7 @@ export const Ayurvedic = [
     "components": "Triterpenes",
     "compound": "pentacyclic triterpene acids, β-boswellic acid and the acetylboswellic acids",
     "part": "Resin",
-    "region _found": "Andhra Pradesh, Gujarat, Madhya Pradesh, Jharkhand, and Chhattisgarh",
+    "region_found": "Andhra Pradesh, Gujarat, Madhya Pradesh, Jharkhand, and Chhattisgarh",
     "reference": "https://assets-us-01.kc-usercontent.com/b3f5510f-b2f6-0081-05a1-dbd7a9328e1f/b279365c-735b-4749-bd59-8a635b3dcd5c/MH%20Herbal%20Neuroplastic%20Support%20Focus%20on%20Neurodegeneration%20and%20Mood%20Disorders.pdf",
     "image": "Boswellia_serrata.jpeg"
   },
@@ -636,7 +636,7 @@ export const Ayurvedic = [
     "components": "Isothiocyanate",
     "compound": "Sulforaphane",
     "part": "Broccoli Sprout",
-    "region _found": "Tamil Nadu",
+    "region_found": "Tamil Nadu",
     "reference": "https://www.florajournal.com/archives/2021/vol9issue3/PartA/9-1-13-226.pdf",
     "image": "Brassica_oleracea_L_var_italica.jpeg"
   },
@@ -647,7 +647,7 @@ export const Ayurvedic = [
     "components": "Glycoside",
     "compound": "bufadienolides",
     "part": "Leaves",
-    "region _found": "West bengal",
+    "region_found": "West bengal",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Bryophyllum_pinnatum_Kurz.jpeg"
   },
@@ -658,7 +658,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Vasicine",
     "part": "Fruit and seed",
-    "region _found": "Along the riverbanks and in the tidal forests that are located close to the Eastern seacoast beginning in Orissa and continuing Southward along the Western seacoast beginning in Konkan.",
+    "region_found": "Along the riverbanks and in the tidal forests that are located close to the Eastern seacoast beginning in Orissa and continuing Southward along the Western seacoast beginning in Konkan.",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Caesalpinia_crista_L.jpeg"
   },
@@ -669,7 +669,7 @@ export const Ayurvedic = [
     "components": "Cardenolides",
     "compound": "Calotropin",
     "part": "Shoot",
-    "region _found": "Marathwada region of the state of Maharashtra, and in the Marsur area of Anekal Taluk, Bengaluru",
+    "region_found": "Marathwada region of the state of Maharashtra, and in the Marsur area of Anekal Taluk, Bengaluru",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Calotropis_gigantea_(L.)_W.T.Aiton.jpeg"
   },
@@ -680,7 +680,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Tetrahydrocannabinol, Cannabidiol",
     "part": "Leaves",
-    "region _found": "Uttarakhand,  Himachal  Pradesh,  Jammu  and  Kashmir,  North  East,  and Madhya Pradesh.",
+    "region_found": "Uttarakhand,  Himachal  Pradesh,  Jammu  and  Kashmir,  North  East,  and Madhya Pradesh.",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Cannabis_sativa_L.jpeg"
   },
@@ -691,7 +691,7 @@ export const Ayurvedic = [
     "components": "Flavanoids",
     "compound": "quercetin, rutin, and kaempferol",
     "part": "Fruit",
-    "region _found": "Bihar, West Bengal, Maharashtra, Karnataka, Rajasthan, Gujarat, and Uttar Pradesh",
+    "region_found": "Bihar, West Bengal, Maharashtra, Karnataka, Rajasthan, Gujarat, and Uttar Pradesh",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Carissa_carandas_L.jpeg"
   },
@@ -702,7 +702,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Celastrine",
     "part": "Seeds",
-    "region _found": "Punjab, Kashmir, Western Ghats, Eastern Ghats, Rajmahal hills in Bihar and Orissa,  Simlipal Biosphere Reserve Forest, Karlapat Sanctuary, Niyamgiri hills",
+    "region_found": "Punjab, Kashmir, Western Ghats, Eastern Ghats, Rajmahal hills in Bihar and Orissa,  Simlipal Biosphere Reserve Forest, Karlapat Sanctuary, Niyamgiri hills",
     "reference": "https://rjpls.com/wp-content/uploads/2023/05/2.-A-PROMISING-APPROACH-FOR-THE-TREATMENT-BY-DEMENTIA-DISEASE-WITH-THE-HELP-OF-HERBAL-DRUGS.pdf",
     "image": "Celastrus_paniculatus_Wild.jpeg"
   },
@@ -713,7 +713,7 @@ export const Ayurvedic = [
     "components": "Triterpenoids",
     "compound": "asiaticoside, madecassoside, asiatic acid, and madecassic acid",
     "part": "Leaves",
-    "region _found": "throughout India growing in moist places up to an altitude of 1800 m.",
+    "region_found": "throughout India growing in moist places up to an altitude of 1800 m.",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Centella_asiatica_(L.)_Urb.jpeg"
   },
@@ -724,7 +724,7 @@ export const Ayurvedic = [
     "components": "polyphenolic",
     "compound": "Curcumin",
     "part": "Whole plant",
-    "region _found": "Assam, Odisha, Bihar, Meghalaya",
+    "region_found": "Assam, Odisha, Bihar, Meghalaya",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Cheilocostus_speciosus_C.D.Specht.jpeg"
   },
@@ -735,7 +735,7 @@ export const Ayurvedic = [
     "components": "Lipids",
     "compound": "ketosterones",
     "part": "Stem",
-    "region _found": "West Bengal, Sikkim, Arunachal Pradesh, Assam, Manipur, Mizoram, Tripura, Meghalaya, and Orissa",
+    "region_found": "West Bengal, Sikkim, Arunachal Pradesh, Assam, Manipur, Mizoram, Tripura, Meghalaya, and Orissa",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Cissus_adnata_Roxb.jpeg"
   },
@@ -746,7 +746,7 @@ export const Ayurvedic = [
     "components": "flavonoids",
     "compound": "Quercetin",
     "part": "leaves",
-    "region _found": "he plains and hills of Assam, Maharashtra, Karnataka, Kerala, and Tamil Nadu",
+    "region_found": "he plains and hills of Assam, Maharashtra, Karnataka, Kerala, and Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Cissus_repens_Lam.jpeg"
   },
@@ -757,7 +757,7 @@ export const Ayurvedic = [
     "components": "Triterpenoid",
     "compound": "Cucurbitacin E",
     "part": "Seed and Fruit",
-    "region _found": "North-Western Plains of the Indo-Gangetic Region (Sub-tropical with Mild Winters), Coastal States of Tamil Nadu, Karnataka, and Orissa",
+    "region_found": "North-Western Plains of the Indo-Gangetic Region (Sub-tropical with Mild Winters), Coastal States of Tamil Nadu, Karnataka, and Orissa",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Citrullus_lanatus_(Thunb.)_Mansf.jpeg"
   },
@@ -768,7 +768,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "3,5,6,7,8,3?,4?-Heptamethoxyflavone",
     "part": "Fruit",
-    "region _found": "South India, NE Region",
+    "region_found": "South India, NE Region",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Citrus_grandis_Osbeck.jpeg"
   },
@@ -779,7 +779,7 @@ export const Ayurvedic = [
     "components": "phenylethanoid glycoside",
     "compound": "Acteoside",
     "part": "Leaves",
-    "region _found": "Andaman and Nicobar Islands, Assam, Goa, Karnataka, Kerala, Maharashtra, and Tamil Nadu.",
+    "region_found": "Andaman and Nicobar Islands, Assam, Goa, Karnataka, Kerala, Maharashtra, and Tamil Nadu.",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Clerodendrum_infortunatum_L.jpeg"
   },
@@ -790,7 +790,7 @@ export const Ayurvedic = [
     "components": "amino acids, proteins and carbohydrates",
     "compound": "",
     "part": "Roots",
-    "region _found": "Andaman and Nicobar Islands, Andhra Pradesh,Assam, Bihar, Gujarat, Haryana, Karnataka,Kerala, Madhya Pradesh, Maharashtra, Manipur, Rajasthan, Tamil Nadu, Uttar Pradesh, West Bengal",
+    "region_found": "Andaman and Nicobar Islands, Andhra Pradesh,Assam, Bihar, Gujarat, Haryana, Karnataka,Kerala, Madhya Pradesh, Maharashtra, Manipur, Rajasthan, Tamil Nadu, Uttar Pradesh, West Bengal",
     "reference": "https://www.researchgate.net/profile/Dilip_Murthy2/publication/10984268_Clitoria_ternatea_root_extract_enhances_acetylcholine_content_in_rat_hippocampus/links/5a3c9d7e0f7e9b10e23bf5fc/Clitoria-ternatea-root-extract-enhances-acetylcholine-content-in-rat-hippocampus.pdf",
     "image": "Clitoria_ternatea.jpeg"
   },
@@ -801,7 +801,7 @@ export const Ayurvedic = [
     "components": "crocins",
     "compound": "carotenoid crocetin",
     "part": "dried stigma",
-    "region _found": "kashmir",
+    "region_found": "kashmir",
     "reference": "https://assets-us-01.kc-usercontent.com/b3f5510f-b2f6-0081-05a1-dbd7a9328e1f/59de9ba6-da7b-460e-ac4a-98a98cf67618/2016w_optimising_cognition_mh_notes_b_w-min.pdf",
     "image": "Colchicum_autumnale.jpeg"
   },
@@ -812,7 +812,7 @@ export const Ayurvedic = [
     "components": "Lipid",
     "compound": "Beta-sitosterol",
     "part": "Whole plant",
-    "region _found": "Northeast region of India",
+    "region_found": "Northeast region of India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Colocasia_esculenta_(L.)_Schott.jpeg"
   },
@@ -823,7 +823,7 @@ export const Ayurvedic = [
     "components": "Coumarins",
     "compound": "Scopoletin",
     "part": "leaves, flowers, stem, roots, seeds and ashes",
-    "region _found": "Bihar and Punjab",
+    "region_found": "Bihar and Punjab",
     "reference": "https://rjpls.com/wp-content/uploads/2023/05/2.-A-PROMISING-APPROACH-FOR-THE-TREATMENT-BY-DEMENTIA-DISEASE-WITH-THE-HELP-OF-HERBAL-DRUGS.pdf",
     "image": "Convolvulus_pluricaulis.jpeg"
   },
@@ -834,7 +834,7 @@ export const Ayurvedic = [
     "components": "Costunolide",
     "compound": "sesquiterpene lactone",
     "part": "Rhizomes",
-    "region _found": "Andhra Pradesh, Karnataka, Kerala, Maharashtra, Odisha, Tamil Nadu",
+    "region_found": "Andhra Pradesh, Karnataka, Kerala, Maharashtra, Odisha, Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Costus_speciosus_(J.Koenig)_Sm.jpeg"
   },
@@ -845,7 +845,7 @@ export const Ayurvedic = [
     "components": "Triterpenoid",
     "compound": "Cucurbitacin B",
     "part": "Fruit and Bark",
-    "region _found": "Delhi, Uttar Pradesh, West Bengal, Assam, Tripura, Madhya Pradesh and Tamil Nadu",
+    "region_found": "Delhi, Uttar Pradesh, West Bengal, Assam, Tripura, Madhya Pradesh and Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Crescentia_cujete_L.jpeg"
   },
@@ -856,7 +856,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Curcuminoids",
     "part": "Rhizome",
-    "region _found": "Andhra Pradesh, Tamil Nadu, Orissa, Karnataka, West Bengal, Gujarat, Meghalaya, Maharashtra, Assam",
+    "region_found": "Andhra Pradesh, Tamil Nadu, Orissa, Karnataka, West Bengal, Gujarat, Meghalaya, Maharashtra, Assam",
     "reference": "https://rjpls.com/wp-content/uploads/2023/05/2.-A-PROMISING-APPROACH-FOR-THE-TREATMENT-BY-DEMENTIA-DISEASE-WITH-THE-HELP-OF-HERBAL-DRUGS.pdf",
     "image": "Curcuma_longa.jpeg"
   },
@@ -867,7 +867,7 @@ export const Ayurvedic = [
     "components": "Flavanoids",
     "compound": "Quercetin, Kaempferol, Luteolin, Apigenin",
     "part": "Leaves and root",
-    "region _found": "Assam, Kerala, Karnataka, Manipur, Tamil Nadu",
+    "region_found": "Assam, Kerala, Karnataka, Manipur, Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Cyathula_prostrata_Blume.jpeg"
   },
@@ -878,7 +878,7 @@ export const Ayurvedic = [
     "components": "Sesquiterpenoid",
     "compound": "?-Cyperone",
     "part": "Root",
-    "region _found": "Assam, Madhya Pradesh",
+    "region_found": "Assam, Madhya Pradesh",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Cyperus_rotundus_L.jpeg"
   },
@@ -889,7 +889,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "scopolamine, hyoscyamine, and atropine",
     "part": "",
-    "region _found": "Assam, Bihar, Meghalaya, Odisha, Rajasthan, Uttar Pradesh",
+    "region_found": "Assam, Bihar, Meghalaya, Odisha, Rajasthan, Uttar Pradesh",
     "reference": "Traditional Herbal Medicines Against CNS Disorders from Bangladesh - PMC",
     "image": "Datura_metel_L.jpeg"
   },
@@ -900,7 +900,7 @@ export const Ayurvedic = [
     "components": "alkaloids",
     "compound": "Isoxylitone,ethanolic extract",
     "part": "Dried root",
-    "region _found": "Northern Western Ghats of Maharashtra",
+    "region_found": "Northern Western Ghats of Maharashtra",
     "reference": "https://www.researchgate.net/publication/345132007_Jadwar_Delphinium_denudatum_Wall_a_medicinal_plant",
     "image": "Delphinium_denudatum_Wall.jpeg"
   },
@@ -911,7 +911,7 @@ export const Ayurvedic = [
     "components": "Phenytoin",
     "compound": "indol-3-alkyl-amines and b-carbolines",
     "part": "Flower and leaf",
-    "region _found": "plain and western Ghats and north up to Sikkim",
+    "region_found": "plain and western Ghats and north up to Sikkim",
     "reference": "https://rjpls.com/wp-content/uploads/2023/05/2.-A-PROMISING-APPROACH-FOR-THE-TREATMENT-BY-DEMENTIA-DISEASE-WITH-THE-HELP-OF-HERBAL-DRUGS.pdf",
     "image": "Desmodium_gangeticum.jpeg"
   },
@@ -922,7 +922,7 @@ export const Ayurvedic = [
     "components": "Mental disorder, epilepsy",
     "compound": "Quercetin",
     "part": "Fruit",
-    "region _found": "North East India",
+    "region_found": "North East India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Dillenia_indica_L.jpeg"
   },
@@ -933,7 +933,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "Quercetin",
     "part": "Leaves",
-    "region _found": "Himalayan region",
+    "region_found": "Himalayan region",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Diplazium_esculentum_(Retz.)_Sw.jpeg"
   },
@@ -944,7 +944,7 @@ export const Ayurvedic = [
     "components": "phenolic compounds",
     "compound": "coumestan",
     "part": "Plant",
-    "region _found": "throughout India, including the Agumbe region of Western Ghats",
+    "region_found": "throughout India, including the Agumbe region of Western Ghats",
     "reference": "https://rjpls.com/wp-content/uploads/2023/05/2.-A-PROMISING-APPROACH-FOR-THE-TREATMENT-BY-DEMENTIA-DISEASE-WITH-THE-HELP-OF-HERBAL-DRUGS.pdf",
     "image": "Eclipta_Alba.jpeg"
   },
@@ -955,7 +955,7 @@ export const Ayurvedic = [
     "components": "tetracyclic diterpenoids",
     "compound": "phorbol esters",
     "part": "Leaves",
-    "region _found": "throughout the Orissa and Deccan Peninsula in India",
+    "region_found": "throughout the Orissa and Deccan Peninsula in India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Euphorbia_neriifolia_L.jpeg"
   },
@@ -966,7 +966,7 @@ export const Ayurvedic = [
     "components": "Phenolic compound",
     "compound": "arescopoletin, umbelliferone and scopolin",
     "part": "whole plant",
-    "region _found": "Andhra Pradesh, Karnataka, Kerala, Maharashtra, Odisha, and Tamil Nadu.",
+    "region_found": "Andhra Pradesh, Karnataka, Kerala, Maharashtra, Odisha, and Tamil Nadu.",
     "reference": "https://www.bing.com/ck/a?!&&p=3708683ed4ec20ffJmltdHM9MTcxMTA2NTYwMCZpZ3VpZD0wMzkwMGUzYi02Nzg0LTY1NzUtM2EwMy0xYTE0NjY3NjY0ZDEmaW5zaWQ9NTIxOQ&ptn=3&ver=2&hsh=3&fclid=03900e3b-6784-6575-3a03-1a14667664d1&psq=Review+on+ayurvedic+plant+based+compounds+to+cure+the+neurological+disorders+Siba+Pattanaik+and+Deoraj+Sharma&u=a1aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wdWJsaWNhdGlvbi8zNjg2MjIxOTBfUmV2aWV3X29uX2F5dXJ2ZWRpY19wbGFudF9iYXNlZF9jb21wb3VuZHNfdG9fY3VyZV90aGVfbmV1cm9sb2dpY2FsX2Rpc29yZGVycw&ntb=2",
     "image": "Evolvulus_alsinoides_L.jpeg"
   },
@@ -977,7 +977,7 @@ export const Ayurvedic = [
     "components": "Phenolic compound",
     "compound": "carbohydrate and ferulic acid",
     "part": "dried latex, rhizome and root",
-    "region _found": "Kashmir and parts of Punjab, and is also available in the Indian Himalayan region",
+    "region_found": "Kashmir and parts of Punjab, and is also available in the Indian Himalayan region",
     "reference": "https://www.bing.com/ck/a?!&&p=3708683ed4ec20ffJmltdHM9MTcxMTA2NTYwMCZpZ3VpZD0wMzkwMGUzYi02Nzg0LTY1NzUtM2EwMy0xYTE0NjY3NjY0ZDEmaW5zaWQ9NTIxOQ&ptn=3&ver=2&hsh=3&fclid=03900e3b-6784-6575-3a03-1a14667664d1&psq=Review+on+ayurvedic+plant+based+compounds+to+cure+the+neurological+disorders+Siba+Pattanaik+and+Deoraj+Sharma&u=a1aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wdWJsaWNhdGlvbi8zNjg2MjIxOTBfUmV2aWV3X29uX2F5dXJ2ZWRpY19wbGFudF9iYXNlZF9jb21wb3VuZHNfdG9fY3VyZV90aGVfbmV1cm9sb2dpY2FsX2Rpc29yZGVycw&ntb=1",
     "image": "Ferula_asafoetida_L.jpeg"
   },
@@ -988,7 +988,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "quercetin and kaempferol",
     "part": "Leaves, flower, seed, root, bark",
-    "region _found": "throughout India, including in the Western Ghats",
+    "region_found": "throughout India, including in the Western Ghats",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Ficus_hispida_L.f.jpeg"
   },
@@ -999,7 +999,7 @@ export const Ayurvedic = [
     "components": "phenylpropene",
     "compound": "Anethole",
     "part": "Fruits and seed",
-    "region _found": "Gujarat, Rajasthan, Karnataka, Maharashtra, Punjab, and Bihar",
+    "region_found": "Gujarat, Rajasthan, Karnataka, Maharashtra, Punjab, and Bihar",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Foeniculum_vulgare_Mill.jpeg"
   },
@@ -1010,7 +1010,7 @@ export const Ayurvedic = [
     "components": "Terpenoids, flavonoids and proanthocyanidins",
     "compound": "quercetin, catechin, ginkgolides and bilobalides,",
     "part": "leaf",
-    "region _found": "Northeast India",
+    "region_found": "Northeast India",
     "reference": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1596191837.pdf",
     "image": "Ginkgo_biloba.jpeg"
   },
@@ -1021,7 +1021,7 @@ export const Ayurvedic = [
     "components": "flavonoids",
     "compound": "isoflavones, glabridin and hispalglabridins A and B",
     "part": "stem",
-    "region _found": "forests of western and central India",
+    "region_found": "forests of western and central India",
     "reference": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1522479026.pdf",
     "image": "Glycirrhiza_glabra.jpeg"
   },
@@ -1032,7 +1032,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "hemidesmine and hemidine",
     "part": "Leaves and root",
-    "region _found": "south India and west Bengal",
+    "region_found": "south India and west Bengal",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Hemidesmus_indicus_(L.)_R.Br.jpeg"
   },
@@ -1043,7 +1043,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "hyoscyamine, scopolamine and tropane",
     "part": "Flower",
-    "region _found": "assam and arunachal pradesh",
+    "region_found": "assam and arunachal pradesh",
     "reference": "https://doi.org/10.33545/27072827.2023.v4.i1a.65",
     "image": "Hyoscyamus_Niger.jpeg"
   },
@@ -1054,7 +1054,7 @@ export const Ayurvedic = [
     "components": "naphthodianthrones, phloroglucinols, and flavonoids",
     "compound": "phenylpropanes, flavonol glycosides, and biflavones,hypericin and hyperforin",
     "part": "flowers and leaf",
-    "region _found": "Temperate regions.",
+    "region_found": "Temperate regions.",
     "reference": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1596191837.pdf",
     "image": "Hypericum_perforatum.jpeg"
   },
@@ -1065,7 +1065,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "kaempferol",
     "part": "Whole plant",
-    "region _found": "Assam, Bihar, Madhya Pradesh, Odisha, Rajasthan, Uttar Pradesh",
+    "region_found": "Assam, Bihar, Madhya Pradesh, Odisha, Rajasthan, Uttar Pradesh",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Ipomoea_aquatica_Forssk.jpeg"
   },
@@ -1076,7 +1076,7 @@ export const Ayurvedic = [
     "components": "Flavanoids",
     "compound": "kaempferol and quercetin",
     "part": "Leaves",
-    "region _found": "throughout the river beds of Southern India",
+    "region_found": "throughout the river beds of Southern India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Justicia_gendarussa.jpeg"
   },
@@ -1087,7 +1087,7 @@ export const Ayurvedic = [
     "components": "Glycoside",
     "compound": "bufadienolides",
     "part": "Leaves",
-    "region _found": "Maharashtra, Tamil Nadu",
+    "region_found": "Maharashtra, Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Kalanchoe_pinnata_(Lam.)_Pers.jpeg"
   },
@@ -1098,7 +1098,7 @@ export const Ayurvedic = [
     "components": "polycyclic aromatic hydrocarbon",
     "compound": "Lawsone (2-hydroxy-1,4-naphthoquinone)",
     "part": "Leaves",
-    "region _found": "Rajasthan, Gujarat, Madhya Pradesh and Punjab.",
+    "region_found": "Rajasthan, Gujarat, Madhya Pradesh and Punjab.",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Lawsonia_inermis.jpeg"
   },
@@ -1109,7 +1109,7 @@ export const Ayurvedic = [
     "components": "Terpene alcohol",
     "compound": "Linalool",
     "part": "Bark",
-    "region _found": "North, East, and Central India",
+    "region_found": "North, East, and Central India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Litsea_polyantha.jpeg"
   },
@@ -1120,7 +1120,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "mimosine",
     "part": "Whole plant",
-    "region _found": "Assam, Bihar, Kerala, Madhya Pradesh, Maharastra, Manipur, Mysore, Odisha, Rajasthan, Tamil Nadu, West Bengal",
+    "region_found": "Assam, Bihar, Kerala, Madhya Pradesh, Maharastra, Manipur, Mysore, Odisha, Rajasthan, Tamil Nadu, West Bengal",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Mimosa_pudica_L.jpeg"
   },
@@ -1131,7 +1131,7 @@ export const Ayurvedic = [
     "components": "Phenolic compound",
     "compound": "Scopoletin",
     "part": "Fruit and leaves",
-    "region _found": "Konkan region of India",
+    "region_found": "Konkan region of India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Morinda_citrifolia_L.jpeg"
   },
@@ -1142,7 +1142,7 @@ export const Ayurvedic = [
     "components": "phenolic compounds and flavonoids",
     "compound": "",
     "part": "Leaves",
-    "region _found": "Northwest India",
+    "region_found": "Northwest India",
     "reference": "https://rjpls.com/wp-content/uploads/2023/05/2.-A-PROMISING-APPROACH-FOR-THE-TREATMENT-BY-DEMENTIA-DISEASE-WITH-THE-HELP-OF-HERBAL-DRUGS.pdf",
     "image": "Moringa_oleifera.jpeg"
   },
@@ -1153,7 +1153,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "5-HTP (5-hydroxytryptophan)",
     "part": "Root and Seed",
-    "region _found": "throughout India",
+    "region_found": "throughout India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Mucuna_pruriens_DCh.jpeg"
   },
@@ -1164,7 +1164,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "4-amino-5-mercapto-3-substituted-1, 2, 4-triazole",
     "part": "Root Extract",
-    "region _found": "subtropical and temperate Himalaya",
+    "region_found": "subtropical and temperate Himalaya",
     "reference": "https://www.researchgate.net/publication/281550536_DIETARY_SUPPLEMENTATION_OF_NATURAL_AND_SYNTHETIC_PRODUCTS_REDUCES_ANXIETY_IN_MICE_AGAINST_ELECTRON_BEAM_RADIATION_INDUCED_OXIDATIVE_STRESS",
     "image": "Nardostachys_jatamansi.jpeg"
   },
@@ -1175,7 +1175,7 @@ export const Ayurvedic = [
     "components": "Alkaloids, Flavonoids, Phenolic compounds",
     "compound": "Alkaloids(Nuciferine), Flavonoids(quercetin and kaempferol), Phenolic compound(Gallic acid)",
     "part": "Whole plant",
-    "region _found": "central and northern India",
+    "region_found": "central and northern India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Nelumbo_nucifera_Gaertn.jpeg"
   },
@@ -1186,7 +1186,7 @@ export const Ayurvedic = [
     "components": "Phenolic compound",
     "compound": "Thymoquinone",
     "part": "Fruit",
-    "region _found": "Punjab, Himachal Pradesh, Madhya Pradesh, Assam, West Bengal, Jharkhand, and Bihar",
+    "region_found": "Punjab, Himachal Pradesh, Madhya Pradesh, Assam, West Bengal, Jharkhand, and Bihar",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Nigella_sativa_L.jpeg"
   },
@@ -1197,7 +1197,7 @@ export const Ayurvedic = [
     "components": "phenylpropanoid",
     "compound": "Eugenol",
     "part": "Leaves and seed",
-    "region _found": "Kerala",
+    "region_found": "Kerala",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Ocimum_gratissimum_L.jpeg"
   },
@@ -1208,7 +1208,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "betalains",
     "part": "Leaves",
-    "region _found": "Assam, Bihar, Tamil Nadu, Rajasthan",
+    "region_found": "Assam, Bihar, Tamil Nadu, Rajasthan",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Opuntia_dillenii_Haw.jpeg"
   },
@@ -1219,7 +1219,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "Baicalein",
     "part": "Stem",
-    "region _found": "North East India",
+    "region_found": "North East India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Oroxylum_indicum_(L.)_Benth.jpeg"
   },
@@ -1230,7 +1230,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "harmine, harmaline, and harman",
     "part": "Leaves",
-    "region _found": "throughout the state of Odisha in India, and in all districts of Kerala",
+    "region_found": "throughout the state of Odisha in India, and in all districts of Kerala",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Passiflora_foetida_L.jpeg"
   },
@@ -1241,7 +1241,7 @@ export const Ayurvedic = [
     "components": "alkaloids, flavanoids",
     "compound": "alkaloids(harmol, harman, harmine, harmaline and harmalol, flavonoids (Chrysin, \nbenzoflavone, apigenin, orientin, isoorientin, vitexin, and isovitexin)",
     "part": "Leaves and stem",
-    "region _found": "North East region of India",
+    "region_found": "North East region of India",
     "reference": "https://www.plantsjournal.com/archives/2021/vol9issue4/PartB/9-4-23-980.pdf",
     "image": "Passiflora_incarnata.jpeg"
   },
@@ -1252,7 +1252,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Piperine",
     "part": "Whole plant",
-    "region _found": "Kerala : Wayanad district, Malappuram district, Thrissur district, Kottayam district, Alappuzha district, Idukki district,Tamil Nadu : Coimbatore district, Dindigul district, The Nilgiri district",
+    "region_found": "Kerala : Wayanad district, Malappuram district, Thrissur district, Kottayam district, Alappuzha district, Idukki district,Tamil Nadu : Coimbatore district, Dindigul district, The Nilgiri district",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Persicaria_hydropiper_(L.)_Delarbre.jpeg"
   },
@@ -1263,7 +1263,7 @@ export const Ayurvedic = [
     "components": "steroidal alkaloids",
     "compound": "Saponins",
     "part": "Fruit,root",
-    "region _found": "Southern India: Karnataka, Kerala, Tamil Nadu, Andhra Pradesh Western India: Maharashtra, Gujarat, Rajasthan Eastern India: West Bengal, Odisha, Bihar Northern India: Uttar Pradesh, Punjab, Haryana, Himachal Pradesh",
+    "region_found": "Southern India: Karnataka, Kerala, Tamil Nadu, Andhra Pradesh Western India: Maharashtra, Gujarat, Rajasthan Eastern India: West Bengal, Odisha, Bihar Northern India: Uttar Pradesh, Punjab, Haryana, Himachal Pradesh",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Phoenix_sylvestris_(L.)_Roxb.jpeg"
   },
@@ -1274,7 +1274,7 @@ export const Ayurvedic = [
     "components": "polyphenolic compounds",
     "compound": "Tannins",
     "part": "Fruit",
-    "region _found": "central and southern India",
+    "region_found": "central and southern India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Phyllanthus_emblica_L.jpeg"
   },
@@ -1285,7 +1285,7 @@ export const Ayurvedic = [
     "components": "phenylpropanoid",
     "compound": "Hydroxychavicol",
     "part": "Whole plant",
-    "region _found": "Bengal, Bihar, Orissa, Andhra Pradesh, Karnataka, Uttar Pradesh, and Tamil Nadu",
+    "region_found": "Bengal, Bihar, Orissa, Andhra Pradesh, Karnataka, Uttar Pradesh, and Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Piper_betel_Blanco.jpeg"
   },
@@ -1296,7 +1296,7 @@ export const Ayurvedic = [
     "components": "sesquiterpene alcohol",
     "compound": "cubebol",
     "part": "Fruit",
-    "region _found": "Kodagu (Coorg) district of Karnataka, India",
+    "region_found": "Kodagu (Coorg) district of Karnataka, India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Piper_cubeba_L.jpeg"
   },
@@ -1307,7 +1307,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "piperlongumine, piperine, pellitorine, and sesquiterpenes",
     "part": "Leaves and root",
-    "region _found": "Khasi hills, the lower hills of West Bengal, Eastern Uttar Pradesh,Madhya Pradesh, Maharashtra, Kerala, Karnataka and Tamil Nadu",
+    "region_found": "Khasi hills, the lower hills of West Bengal, Eastern Uttar Pradesh,Madhya Pradesh, Maharashtra, Kerala, Karnataka and Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Piper_longum_L.jpeg"
   },
@@ -1318,7 +1318,7 @@ export const Ayurvedic = [
     "components": "kavalactones",
     "compound": "Kavain and Kavapyrone",
     "part": "root extract",
-    "region _found": "pacific island",
+    "region_found": "pacific island",
     "reference": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1596191837.pdf",
     "image": "Piper_methysticum.jpeg"
   },
@@ -1329,7 +1329,7 @@ export const Ayurvedic = [
     "components": "alpha-linolenic acid (ALA)",
     "compound": "Omega-3 fatty acid",
     "part": "leaves",
-    "region _found": "India",
+    "region_found": "India",
     "reference": "https://www.thepharmajournal.com/archives/?year=2019&vol=8&issue=6&ArticleId=3554",
     "image": "Portulaca_oleracea.jpeg"
   },
@@ -1340,7 +1340,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Premnine",
     "part": "Root",
-    "region _found": "Kerala, District/s: Kottayam, Kannur, Kozhikkode, Kasaragode, Thrissur, Ernakulam",
+    "region_found": "Kerala, District/s: Kottayam, Kannur, Kozhikkode, Kasaragode, Thrissur, Ernakulam",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "premna_corymbosa.jpeg"
   },
@@ -1351,7 +1351,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Reserpine",
     "part": "Leaves and root",
-    "region _found": "The sub-Himalayan tract from Himachal Pradesh eastwards to Sikkim and Bhutan, Assam The lower hills of the Gangetic plains, The eastern and western ghats, Some parts of central India, The Andamans",
+    "region_found": "The sub-Himalayan tract from Himachal Pradesh eastwards to Sikkim and Bhutan, Assam The lower hills of the Gangetic plains, The eastern and western ghats, Some parts of central India, The Andamans",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Rauvolfia_serpentina_Benth.jpeg"
   },
@@ -1362,7 +1362,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Reserpine, canescine, deserpidine, recanescine, and rescinnamine",
     "part": "whole plant",
-    "region _found": "the sub-Himalayan region, Assam, the lower hills of the Gangetic plains, the eastern and western ghats, some parts of central India, and the Andamans.",
+    "region_found": "the sub-Himalayan region, Assam, the lower hills of the Gangetic plains, the eastern and western ghats, some parts of central India, and the Andamans.",
     "reference": "https://wjpr.net/public/abstract_show/12456",
     "image": "Rauwolfia_serpentina.jpeg"
   },
@@ -1373,7 +1373,7 @@ export const Ayurvedic = [
     "components": "Phenylpropanoids,Phenylethanol derivatives,Flavanoids,Terpenoid,Phenolic acids:",
     "compound": "apomorphine,dizocilpine",
     "part": "root extract",
-    "region _found": "Ladakh mountains",
+    "region_found": "Ladakh mountains",
     "reference": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1596191837.pdf",
     "image": "Rhodiola_rosea.jpeg"
   },
@@ -1384,7 +1384,7 @@ export const Ayurvedic = [
     "components": "synthesized AgNPs",
     "compound": "synthesized AgNPs",
     "part": "seed",
-    "region _found": "Kerala and Karnataka",
+    "region_found": "Kerala and Karnataka",
     "reference": "https://pubmed.ncbi.nlm.nih.gov/31773523/",
     "image": "Rhynchosia_rufescens.jpeg"
   },
@@ -1395,7 +1395,7 @@ export const Ayurvedic = [
     "components": "Phenolic compound",
     "compound": "Rosmarinic acid",
     "part": "leaves",
-    "region _found": "Subtropical region of north India",
+    "region_found": "Subtropical region of north India",
     "reference": "https://www.researchgate.net/publication/340403948_In_vitro_Screening_for_Acetylcholinesterase_Inhibition_and_Antioxidant_Potential_in_Different_Extracts_of_Sage_Salvia_officinalis_L_and_Rosemary_Rosmarinus_officinalis_L",
     "image": "Rosmarinus_officinalis_L.jpeg"
   },
@@ -1406,7 +1406,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Graveolinine",
     "part": "whole plant",
-    "region _found": "throughout india",
+    "region_found": "throughout india",
     "reference": "https://www.mdpi.com/2223-7747/12/4/827",
     "image": "Ruta_angustifolia_Pers.jpeg"
   },
@@ -1417,7 +1417,7 @@ export const Ayurvedic = [
     "components": "Phenolic compound",
     "compound": "Rosmarinic acid",
     "part": "leaves",
-    "region _found": "North Western Himalayan region of India",
+    "region_found": "North Western Himalayan region of India",
     "reference": "https://www.researchgate.net/publication/340403948_In_vitro_Screening_for_Acetylcholinesterase_Inhibition_and_Antioxidant_Potential_in_Different_Extracts_of_Sage_Salvia_officinalis_L_and_Rosemary_Rosmarinus_officinalis_L",
     "image": "Salvia_officinalis_L.jpeg"
   },
@@ -1428,7 +1428,7 @@ export const Ayurvedic = [
     "components": "Terpenoid",
     "compound": "α-Santalol",
     "part": "Stem",
-    "region _found": "Karnataka, Kerala, Madhya Pradesh, and Maharashtra",
+    "region_found": "Karnataka, Kerala, Madhya Pradesh, and Maharashtra",
     "reference": "Traditional Herbal Medicines Against CNS Disorders from Bangladesh - PMC",
     "image": "Santalum_album_L.jpeg"
   },
@@ -1439,7 +1439,7 @@ export const Ayurvedic = [
     "components": "Lipid",
     "compound": "Beta-sitosterol",
     "part": "Leaves",
-    "region _found": "Western Ghats Evergreen Forests",
+    "region_found": "Western Ghats Evergreen Forests",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Schefflera_roxburghii_Gamble.jpeg"
   },
@@ -1450,7 +1450,7 @@ export const Ayurvedic = [
     "components": "Flavonoid glycoside",
     "compound": "Scutellarin, Luteolin",
     "part": "Root and fruit",
-    "region _found": "Andhra Pradesh : Throughout Eastern Ghats, Kerala : All districts of Kerala, Odisha : Throughout Odisha, Tamil Nadu : Salem district, Dindigul district, Tiruvannamalai district",
+    "region_found": "Andhra Pradesh : Throughout Eastern Ghats, Kerala : All districts of Kerala, Odisha : Throughout Odisha, Tamil Nadu : Salem district, Dindigul district, Tiruvannamalai district",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Scoparia_dulcis_L.jpeg"
   },
@@ -1461,7 +1461,7 @@ export const Ayurvedic = [
     "components": "phenolic compounds",
     "compound": "Bhilawanols",
     "part": "Fruit",
-    "region _found": "tropical and central parts of India",
+    "region_found": "tropical and central parts of India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Semecarpus_anacardium_L.f.jpeg"
   },
@@ -1472,7 +1472,7 @@ export const Ayurvedic = [
     "components": "glycosides",
     "compound": "Sennosides",
     "part": "Leaves",
-    "region _found": "Assam",
+    "region_found": "Assam",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Senna_tora_Roxb.jpeg"
   },
@@ -1483,7 +1483,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "phedrine and vasicinone",
     "part": "Leaves",
-    "region _found": "Andhra Pradesh, Karnataka, Kerala, Maharashtra, Andaman and Nicobar Islands, Arunachal Pradesh, Assam, and Bihar",
+    "region_found": "Andhra Pradesh, Karnataka, Kerala, Maharashtra, Andaman and Nicobar Islands, Arunachal Pradesh, Assam, and Bihar",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Sida_acuta_Burm.f.jpeg"
   },
@@ -1494,7 +1494,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "ephedrine",
     "part": "leaves and bark of roots",
-    "region _found": "tropical and subtropical regions of India",
+    "region_found": "tropical and subtropical regions of India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Sida_cordifolia_L.jpeg"
   },
@@ -1505,7 +1505,7 @@ export const Ayurvedic = [
     "components": "alkaloids,flavanoids,phenoic compounds,proteins ,vitamins etc",
     "compound": "ascorbic acid, apigenin, astragalin, caffeic, lutein, β-carotene, ferulic acid,kampeferol, rutin, querecetin, myricetin, luteolin, ortho-coumaric acid, para-coumaric acid, stigmasterol, protocatechuic acids, methylenedioxy flavonol, glycoglycerolipids, 20-hydroxyecdysone, vitamins, spirasaponins violaxanthin etc.,",
     "part": "seed extract",
-    "region _found": "Maharashtra, West Bengal, Gujarat, Andhra Pradesh,Telangana, Kerala, Tamil Nadu, Karnataka and Uttar Pradesh.",
+    "region_found": "Maharashtra, West Bengal, Gujarat, Andhra Pradesh,Telangana, Kerala, Tamil Nadu, Karnataka and Uttar Pradesh.",
     "reference": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1596191837.pdf",
     "image": "Spinacia_oleracea.jpeg"
   },
@@ -1516,7 +1516,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Tetrandrine",
     "part": "Leaves",
-    "region _found": "Arunachal Pradesh, Assam, Karnataka, Kerala, Maharashtra, Tamil Nadu",
+    "region_found": "Arunachal Pradesh, Assam, Karnataka, Kerala, Maharashtra, Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Stephania_japonica_(Thunb.)_Miers.jpeg"
   },
@@ -1527,7 +1527,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "Luteolin",
     "part": "Leaves and stem",
-    "region _found": "Plains of India",
+    "region_found": "Plains of India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Synedrella_nodiflora_Gaertn.jpeg"
   },
@@ -1538,7 +1538,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Voacangine, Coronaridine, Tabernanthine, Ibogaine",
     "part": "Leaves, flower and root",
-    "region _found": "tropical areas of India,the Western Ghats and evergreen forests",
+    "region_found": "tropical areas of India,the Western Ghats and evergreen forests",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Tabernaemontana_divaricata_(L.)_R.Br.jpeg"
   },
@@ -1549,7 +1549,7 @@ export const Ayurvedic = [
     "components": "Triterpenoid saponin",
     "compound": "arjunolic acid",
     "part": "Bark",
-    "region _found": "Uttar Pardesh, South Bihar, Madhya Pradesh, Delhi and Deccan region",
+    "region_found": "Uttar Pardesh, South Bihar, Madhya Pradesh, Delhi and Deccan region",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Terminalia_arjuna_(Roxb.)_Wight_&_Arn.jpeg"
   },
@@ -1560,7 +1560,7 @@ export const Ayurvedic = [
     "components": "Phenolic",
     "compound": "Chebulic acid",
     "part": "Fruit",
-    "region _found": "Sub-Himalayan region",
+    "region_found": "Sub-Himalayan region",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Terminalia_chebula_Retz.jpeg"
   },
@@ -1571,7 +1571,7 @@ export const Ayurvedic = [
     "components": "Acetic acid and ehtanol",
     "compound": "N,N-dimethyl glycine",
     "part": "Flower",
-    "region _found": "Karnataka and Tamil Nadu.",
+    "region_found": "Karnataka and Tamil Nadu.",
     "reference": "https://www.multidisciplinaryjournal.in/assets/archives/2018/vol3issue2/3-2-21-682.pdf",
     "image": "Thespesia_populnea.jpeg"
   },
@@ -1582,7 +1582,7 @@ export const Ayurvedic = [
     "components": "cardiac glycosides",
     "compound": "thevetin A, thevetin B, neriifolin, peruvoside, thevetoxin",
     "part": "Bark, seed",
-    "region _found": "throughout India",
+    "region_found": "throughout India",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Thevetia_peruviana.jpeg"
   },
@@ -1593,7 +1593,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Palmatine",
     "part": "Root",
-    "region _found": "tropical Indian subcontinent",
+    "region_found": "tropical Indian subcontinent",
     "reference": "https://www.researchgate.net/publication/310790529_Prevention_Management_of_Autism_-_An_Ayurvedic_Perspective",
     "image": "Tinospora_cordifolia.jpeg"
   },
@@ -1604,7 +1604,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Triterpenoids",
     "part": "Whole plant",
-    "region _found": "Andaman & Nicobar Islands, Assam, Bihar, Kerala, Maharashtra, Madhya, Pradesh, Odisha and Tamil Nadu",
+    "region_found": "Andaman & Nicobar Islands, Assam, Bihar, Kerala, Maharashtra, Madhya, Pradesh, Odisha and Tamil Nadu",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Trema_orientalis_(L.)_Blume.jpeg"
   },
@@ -1615,7 +1615,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Typhonium trilobatum",
     "part": "Whole plant",
-    "region _found": "Assam",
+    "region_found": "Assam",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Typhonium_trilobatum_(L.)_Schott.jpeg"
   },
@@ -1626,7 +1626,7 @@ export const Ayurvedic = [
     "components": "sesquiterpenoid",
     "compound": "Valerenic acid",
     "part": "Roots",
-    "region _found": "North-Western Himalayan region",
+    "region_found": "North-Western Himalayan region",
     "reference": "https://assets-us-01.kc-usercontent.com/b3f5510f-b2f6-0081-05a1-dbd7a9328e1f/b279365c-735b-4749-bd59-8a635b3dcd5c/MH%20Herbal%20Neuroplastic%20Support%20Focus%20on%20Neurodegeneration%20and%20Mood%20Disorders.pdf",
     "image": "Valeriana_officinalis.jpeg"
   },
@@ -1637,7 +1637,7 @@ export const Ayurvedic = [
     "components": "Terpenoid",
     "compound": "Vitexin",
     "part": "Leaves",
-    "region _found": "Assam",
+    "region_found": "Assam",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648845/",
     "image": "Vitex_negundo_L.jpeg"
   },
@@ -1648,7 +1648,7 @@ export const Ayurvedic = [
     "components": "Alkaloids",
     "compound": "Ashwagandholine",
     "part": "Roots",
-    "region _found": "sub-tropical regions india",
+    "region_found": "sub-tropical regions india",
     "reference": "Review Article A PROMISING APPROACH FOR THE TREATMENT BY DEMENTIA DISEASE WITH THE HELP OF HERBAL DRUGS",
     "image": "withania_somnifera.jpeg"
   },
@@ -1659,7 +1659,7 @@ export const Ayurvedic = [
     "components": "Flavonoids",
     "compound": "Anthocyanins",
     "part": "Tuber",
-    "region _found": "Andhra Pradesh, Kerala, Karnataka, and Tamil.",
+    "region_found": "Andhra Pradesh, Kerala, Karnataka, and Tamil.",
     "reference": "Traditional Herbal Medicines Against CNS Disorders from Bangladesh - PMC",
     "image": "Xanthosoma_violaceum_Schott.jpeg"
   },
@@ -1670,7 +1670,7 @@ export const Ayurvedic = [
     "components": "alkaloids,flavonoids, phenols, tannins, terpenoids and saponins.",
     "compound": "N, N-dimethylglycine",
     "part": "leaves",
-    "region _found": "the North-eastern region of India.",
+    "region_found": "the North-eastern region of India.",
     "reference": "https://nowgonggirlscollege.edu.in/upload/publication_scopus/1652535320.pdf",
     "image": "Xylosma_longifolia_Clos.jpeg"
   },
@@ -1681,7 +1681,7 @@ export const Ayurvedic = [
     "components": "saponins,jujubosides and triterpenoic acids.",
     "compound": "5-HTP, tryptophan, serotonin and theanine",
     "part": "Fruit",
-    "region _found": "Maharashtra, Gujarat, Madhya Pradesh, Punjab, Haryana, Rajasthan, Bihar, Karnataka, Andhra Pradesh, Tamil Nadu, West Bengal and Assam.",
+    "region_found": "Maharashtra, Gujarat, Madhya Pradesh, Punjab, Haryana, Rajasthan, Bihar, Karnataka, Andhra Pradesh, Tamil Nadu, West Bengal and Assam.",
     "reference": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1596191837.pdf",
     "image": "Ziziphus_jujube.jpeg"
   }
