@@ -1,0 +1,92 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    min-height: 82px;
+    backdrop-filter: blur(20px);
+    background: rgba(255, 255, 255, 0.644);
+     
+    .navbar_inner {
+      width: 100%;
+      display: flex;
+      align-items: center; 
+      justify-content: space-between;
+        
+      .logo {
+        padding: 10px;
+      }
+      
+      .logoMobile {
+        display: none;
+      }
+  
+      .nav_buttons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 24px;
+  
+        .desktopIcon {
+          font-size: 60px;
+          color: #000307;
+          text-decoration: none;
+  
+          &:hover {
+            color: var(--primary); /* Change color on hover */
+          }
+        }
+      }
+  
+      .hamburger {
+        display: none;
+      }
+  
+      .headingDark {
+        color: #080000;
+        font-size: 24px;
+      }
+  
+      .headingLight {
+        color: 000000;
+        font-size: 24px;
+      }
+    }
+  
+    @media (max-width: 640px) {
+      .navbar {
+        display: flex;
+        align-items: center;
+        min-height: 60px;
+  
+        .navbar_inner {
+          width: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+  
+          .logo {
+            display: none;
+          }
+  
+          .logoMobile {
+            display: block;
+          }
+  
+          .nav_buttons {
+            .desktopIcon {
+              display: block;
+            }
+          }
+        }
+      }
+    }
+  
+    // Styling for the "About" link within .nav_buttons
+    .nav_buttons a[href="/about"] {
+      color: black/* Your desired color */;
+      
+      &:hover {
+        color: blue/* Your desired color on hover */;
+      }
+    }
+  }
+  
